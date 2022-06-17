@@ -4,5 +4,15 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"launch": {
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"name": "http://localhost:8080",
+				"request": "launch",
+				"url": "http://localhost:8080"
+			}
+		]
+	}
 }

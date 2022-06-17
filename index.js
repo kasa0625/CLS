@@ -5,7 +5,7 @@
 // that working with the DOM is more readable later.
 let controlsDiv, resultsDiv
 let controls = {}
-const isDebug = true; //Turn console messages to console on or off.
+const isDebug = false; //Turn console messages to console on or off.
 // Also references for the help text
 let helpDivs, showHelpLink, hideHelpLink
 
